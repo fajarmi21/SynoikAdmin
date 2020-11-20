@@ -13,4 +13,33 @@
     <color name="textHeadline">#434343</color>
     <color name="textDescription">#686868</color>
     <color name="lightGrey">#EAEAEA</color>
+    <color name="bgContent">#ffffff</color>
+    <color name="titleBadgeTitle">#adafb1</color>
+    <color name="titleBadgeText">#adafb1</color>
+    <color name="bgBackSideColor">#f4f0ff</color>
+    <color name="bgTitleLeft">#594691</color>
+    <color name="bgTitleRight">#ffffff</color>
+    <color name="bgContentTop">#594691</color>
+    <color name="contentDividerLine">#e0e0e0</color>
+
+    <color name="color_home_bg">#9A979C</color>
+    <color name="color_favorite_bg">#444145</color>
+    <color name="color_chat_bg">#21FF06</color>
+    <color name="color_notification_bg">#80007F</color>
+    <color name="color_profile_bg">#0D5FFF</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+
+    <!--random-->
+    <color name="darkgreen_mistyrose">#00574B</color>
+    <color name="rand_lavenderblush">#FFF0F5</color>
+    <color name="green_azure">#008577</color>
+    <color name="rand_chocolate">#D2691E</color>
+    <color name="rand_sandybrown">#F4A460</color>
+    <color name="rand_bisque">#FFE4C4</color>
+    <color name="rand_aqua">#00FFFF</color>
+    <color name="rand_darkgrey">#A9A9A9</color>
 </resources>
